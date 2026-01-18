@@ -1,7 +1,6 @@
 # cli-runtime
 
-This README outlines the details of collaborating on this Go module. A short
-introduction of this module could easily go here.
+A Go module providing a framework for building command-line tools.
 
 ## Prerequisites
 
