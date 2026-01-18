@@ -1,4 +1,4 @@
-# cli-runtime
+# cli-runtime ![test](https://github.com/tomasbasham/cli-runtime/workflows/test/badge.svg)
 
 A Go module that provides a framework for building command-line tools.
 
