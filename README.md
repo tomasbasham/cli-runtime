@@ -1,4 +1,4 @@
-# cli-runtime
+# cli-runtime [![test](https://github.com/tomasbasham/cli-runtime/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/tomasbasham/cli-runtime/actions/workflows/test.yaml)
 
 A Go module providing a framework for building command-line tools.
 
